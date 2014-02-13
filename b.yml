@@ -6,3 +6,11 @@ key-3:
     key-3-1-2: value 3 1 2
   key-3-2: value 3 2
 key-4: value 4
+key-5:
+  - item 1
+  - item 2
+  - item 3
+key-6:
+  - 1
+  - 2
+  - 3
