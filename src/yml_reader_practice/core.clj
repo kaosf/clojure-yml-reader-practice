@@ -1,5 +1,6 @@
 (ns yml-reader-practice.core
-  (:require [clj-yaml.core :as yaml])
+  (:require [clj-yaml.core :as yaml]
+            [clojure.pprint :refer (pprint)])
   (:gen-class))
 
 (defn -main
