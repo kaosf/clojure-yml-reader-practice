@@ -1,36 +1,17 @@
-# yml-reader-practice
+# Clojure YAML Reader Practice
 
-FIXME: description
+A simple YAML reader and printer.
 
-## Installation
-
-Download from http://example.com/FIXME.
+It's experiment and practice for myself.
 
 ## Usage
 
-FIXME: explanation
-
-    $ java -jar yml-reader-practice-0.1.0-standalone.jar [args]
-
-## Options
-
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
+```sh
+lein run a.yml
+```
 
 ## License
 
-Copyright © 2014 FIXME
+[MIT](http://opensource.org/licenses/MIT)
 
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+Copyright 2014 ka
